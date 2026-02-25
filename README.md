@@ -17,13 +17,11 @@ Analysis to identify why patients miss their medical appointments and which fact
 
 ## Files
 - `NoShow_Analysis_Final.ipynb` – Full interactive Jupyter Notebook
-- `NoShow_Analysis_Final.html` – Static HTML report (opens in any browser)
 - `NoShow_Analysis_Final.pdf` – Clean PDF report
 - `noshowappointments-kagglev2-may-2016.csv` – Original dataset
 
 ## Author
-Jerad Williams  
-[View HTML Report](NoShow_Analysis_Final.html)  
+Jerad Williams
 [View PDF Report](NoShow_Analysis_Final.pdf)
 
 ---
