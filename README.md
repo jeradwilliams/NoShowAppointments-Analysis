@@ -1,6 +1,6 @@
 # No-Show Medical Appointments Analysis
 
-**Brazil 2016 – 110,527 appointments**
+**Brazil 2016 - 110,527 appointments**
 
 Analysis to identify why patients miss their medical appointments and which factors matter most.
 
@@ -16,9 +16,9 @@ Analysis to identify why patients miss their medical appointments and which fact
 - Jupyter Notebook
 
 ## Files
-- `NoShow_Analysis_Final.ipynb` – Full interactive Jupyter Notebook
-- `NoShow_Analysis_Final.pdf` – Clean PDF report
-- `noshowappointments-kagglev2-may-2016.csv` – Original dataset
+- `NoShow_Analysis_Final.ipynb` - Full interactive Jupyter Notebook
+- `NoShow_Analysis_Final.pdf` - Clean PDF report
+- `noshowappointments-kagglev2-may-2016.csv` - Original dataset
 
 ## Author
 Jerad Williams
