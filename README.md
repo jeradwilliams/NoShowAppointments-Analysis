@@ -1,5 +1,3 @@
-# NoShowAppointments-Analysis
-Brazil medical no-show analysis project
 # No-Show Medical Appointments Analysis
 
 **Brazil 2016 – 110,527 appointments**
